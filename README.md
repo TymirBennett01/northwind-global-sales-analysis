@@ -74,14 +74,14 @@ This project demonstrates practical application of business intelligence techniq
 ##  Dashboard Preview
 
 ### 1️⃣ Sales Overview
-![Sales Overview](Northwind Sales Overview.PNG)
+![Sales Overview](northwind-sales-overview.png)
 
 ---
 
 ### 2️⃣ Employee Performance
-![Employee Performance](Northwind Employee Performance.PNG)
+![Employee Performance](northwind-employee-performance.png)
 
 ---
 
 ### 3️⃣ Product & Customer Insights
-![Product Customer Insight](Northwind Product customer insight.PNG)
+![Product Customer Insight](northwind-product-customer-insight.png)
