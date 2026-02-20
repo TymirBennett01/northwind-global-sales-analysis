@@ -71,6 +71,17 @@ Professional Relevance
 
 This project demonstrates practical application of business intelligence techniques used in operations, healthcare analytics, supply chain management, and logistics performance monitoring.
 
-Dashboard Preview
+##  Dashboard Preview
 
-(Screenshot will be added after upload)
+### 1️⃣ Sales Overview
+![Sales Overview](Northwind Sales Overview.PNG)
+
+---
+
+### 2️⃣ Employee Performance
+![Employee Performance](Northwind Employee Performance.PNG)
+
+---
+
+### 3️⃣ Product & Customer Insights
+![Product Customer Insight](Northwind Product customer insight.PNG)
